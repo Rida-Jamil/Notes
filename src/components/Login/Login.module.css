@@ -1,0 +1,13 @@
+.container {
+    min-height: 300px;
+    width: 50%;
+    background-color: white;
+    border-radius: 15px;
+    color: black;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.forms {
+    margin: 30px 0px;
+}
